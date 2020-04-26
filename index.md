@@ -9,3 +9,5 @@ Algo Seminararbeit zum Videogames Datensatz.
     <a href="DatavsDecision_ONot_GLMs.md">Part I: md</a> <br>    
   </body>
  </html>
+
+[I'm an inline-style link]("DatavsDecision_ONot_GLMs_embedded.html")
