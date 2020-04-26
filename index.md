@@ -10,4 +10,4 @@ Algo Seminararbeit zum Videogames Datensatz.
   </body>
  </html>
 
-[I'm an inline-style link]("DatavsDecision_ONot_GLMs_embedded.html")
+[I'm an inline-style link](DatavsDecision_ONot_GLMs_embedded.html)
