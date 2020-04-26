@@ -8,4 +8,4 @@
 Introduction
 
 
-[Part I: ...](DatavsDecision_ONot_GLMs (1).html)
+[Part I: Data Science vs Decision Science, O-NOtation, GLMs, Graphical Models](DatavsDecision_ONot_GLMs.html)
